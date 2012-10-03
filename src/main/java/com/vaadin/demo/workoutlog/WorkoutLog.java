@@ -136,7 +136,7 @@ public class WorkoutLog extends Application implements SessionManager,
 
         // set theme and some layout stuff
         setMainWindow(w);
-        w.getLayout().setSizeFull();
+        w.getLayout().setHeight("400px");
         w.getLayout().setMargin(false);
 
         Panel p = new Panel("Workout Log");
