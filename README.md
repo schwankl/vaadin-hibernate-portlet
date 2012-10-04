@@ -5,7 +5,7 @@ This is an attempt to port the [Vaadin hibernate example application][vhbn] to a
 
 This example now uses the [HbnContainer Vaadin Add-on][hbnpl]. 
 
-*This portlet currently will deploy but not work. To see what should be working examples of related portlets, see [sample-hibernate-portlet][hplt606] in Liferay 6.0.6 or [vaadin-mail-portlet][vpltsrc] in trunk of Liferay.*
+*This portlet currently will deploy and mostly work. To see other examples of related portlets, see [sample-hibernate-portlet][hplt606] in Liferay 6.0.6 or [vaadin-mail-portlet][vpltsrc] in trunk of Liferay.*
 
 Feel free to contact me via GitHub about it/submit issues to this GitHub project or leave a note on [this Vaadin forum thread][forumthread].
 

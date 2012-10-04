@@ -27,7 +27,7 @@ public class WorkoutEditor extends Window implements ClickListener {
     private WorkoutLog workoutLog;
 
     public WorkoutEditor(WorkoutLog app) {
-        super("Edig workout");
+        super("Edit Workout");
         workoutLog = app;
         Layout main = new VerticalLayout();
         setLayout(main);
